@@ -1,7 +1,8 @@
-This is a simple React.js application that fetches product data from a fake API and displays it in a clean UI. The app is built using **Vite** for fast development and optimized builds.
+# React + Vite
 
-##  Features  
-- Fetches product data from a fake API  
-- Displays products in a responsive UI  
-- Fast and efficient build with Vite  
-- Minimal and clean React component structure  
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
